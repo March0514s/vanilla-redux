@@ -1,0 +1,23 @@
+{
+  "name": "vanilla-redux",
+  "version": "1.0.0",
+  "description": "Implementation of simple app using vanilla JS and redux.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server"
+  },
+  "keywords": [
+    "js",
+    "redux"
+  ],
+  "author": "Marcus Davanço",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "3.11.0",
+    "webpack-dev-server": "2.11.1"
+  },
+  "dependencies": {
+    "redux": "3.7.2"
+  }
+}
